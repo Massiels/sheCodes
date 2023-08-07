@@ -67,3 +67,5 @@ let currentLocationButton = document.querySelector("#search-form");
 currentLocationButton.addEventListener("search", getCurrentLocation);
 
 searchCity("New York");
+
+
