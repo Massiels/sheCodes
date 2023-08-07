@@ -1,1 +1,35 @@
+h3,
+h5,
+h1,
+h6,
+.city {
+  text-align: center;
+  font-family: "Caprasimo", cursive;
+  color: blue;
+}
+.form-select {
+  border: 1px solid;
+  width: 200px;
+  padding: 5px;
+  margin-left: 80px;
+}
 
+.hours {
+  margin-left: 50px;
+}
+
+.weather-app {
+  border: 5px solid;
+  width: 400px;
+  padding: 20px;
+  margin: 65px;
+  color: blue;
+}
+.icon-weather {
+  margin-left: 150px;
+  width: 90px;
+}
+
+.float-left {
+  margin-left: 140px;
+}
